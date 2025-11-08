@@ -28,4 +28,4 @@ springdoc:
 
 app:
   cors:
-    allowed-origins: "http://localhost:4200"
+    allowed-origins: "http://localhost:4200, https://notes-frontend-deploy.vercel.app"
